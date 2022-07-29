@@ -12,14 +12,14 @@ Please use which ever version of Java you're most comfortable with.
 
 ## What we are looking for
 * Good communication
- * Please talk through your thinking as you go along
+  * Please talk through your thinking as you go along
 * Working dev environment
 * Test Coverage
- * “test-first” development
- * comprehensive unit tests and test coverage.
+  * “test-first” development
+  * comprehensive unit tests and test coverage.
 * Build file
- * build file that compiles your code and runs the tests
- * Gradle or Maven build file is ideal.
+  * build file that compiles your code and runs the tests
+  * Gradle or Maven build file is ideal.
 * Simplicity
- * complexity of the code should be in proportion to the complexity of the task
- * please don't over architect the code
+  * complexity of the code should be in proportion to the complexity of the task
+  * please don't over architect the code
